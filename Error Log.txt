@@ -1,0 +1,10 @@
+6/24/22
+Syntax error 
+EOF while scaning Tripple quated string literal 
+
+Code: 
+print('Acsses denied the program will now shutdown') 
+time sleep(3.10) 
+exit() 
+
+Bug fix unfinished 
